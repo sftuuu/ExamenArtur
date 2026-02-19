@@ -1,6 +1,9 @@
 #include <iostream>
 
 int main(){
-    std::cout << "Artur";
-    std::cout << "Artur22";
+  int num[5] = {1, 2 , 3, 4, 5};
+  int a =0;
+  std::cout << num;
+  std::cout << a;
 }
+
